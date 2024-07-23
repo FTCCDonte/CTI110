@@ -4,3 +4,50 @@
 #Create python for final
 
 
+Grocery Item
+Price
+apples
+$3.69
+berries
+$4.00
+chocolate
+$2.89
+turkey
+$6.99
+cheese
+$4.00
+pepsi
+$7.89
+eggs
+$3.50
+bread
+$3.00
+*Welcome to the Grocery Checkout*
+Enter an item to add to the cart or type 'end' to stop adding items: berries
+Enter an item to add to the cart or type 'end' to stop adding items: eggs
+Enter an item to add to the cart or type 'end' to stop adding items: bread
+Enter an item to add to the cart or type 'end' to stop adding items: end
+The items currently in your cart are:
+berries
+eggs
+bread
+Grocery Checkout Recepit
+berries
+$4.00
+eggs
+$3.50
+bread
+$3.00
+SUBTOTAL:
+$10.50
+TAX:
+$0.21
+TOTAL:
+$10.71
+You owe $10.71 for the groceries
+How much cash will you put in the self-checkout machine? $15.00
+The change owed to you is $4.29
+Dispensing...
+4 Dollars
+1 Quarter
+4 Pennies
