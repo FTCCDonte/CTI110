@@ -5,7 +5,7 @@
 
 
 Grocery Item
-Price
+print(Price)
 apples
 $3.69
 berries
